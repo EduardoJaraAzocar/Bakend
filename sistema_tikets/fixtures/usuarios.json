@@ -1,0 +1,22 @@
+[
+    {
+        "model": "sistema_tikets.usuario",
+        "pk": 1,
+        "fields": {
+            "nombre": "Ana Pérez",
+            "correo_electronico": "ana@correo.com",
+            "contrasena_hash": "pbkdf2_sha256$1000000$XHHWvUgZUc5x2tITjpIrKA$bbwlTMkuKGRU/polapTex6jPPiwntFTRuDUtnYRzAmg=",
+            "rol": "cliente"
+        }
+    },
+    {
+        "model": "sistema_tikets.usuario",
+        "pk": 2,
+        "fields": {
+            "nombre": "Carlos Soto",
+            "correo_electronico": "carlos@correo.com",
+            "contrasena_hash": "pbkdf2_sha256$1000000$ZxC9FGFeLFEazRnu7OgoVC$p283TesBMqu/XJhuvqjf6y4KQI4GFliUiLMmihmZcFc=",
+            "rol": "agente"
+        }
+    }
+]

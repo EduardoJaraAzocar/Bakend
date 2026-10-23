@@ -1,0 +1,42 @@
+[
+    {
+        "model": "sistema_tikets.estado",
+        "pk": 1,
+        "fields": {
+            "nombre_estado": "Abierto",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.estado",
+        "pk": 2,
+        "fields": {
+            "nombre_estado": "En proceso",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.estado",
+        "pk": 3,
+        "fields": {
+            "nombre_estado": "Pendiente",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.estado",
+        "pk": 4,
+        "fields": {
+            "nombre_estado": "Resuelto",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.estado",
+        "pk": 5,
+        "fields": {
+            "nombre_estado": "Cerrado",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    }
+]

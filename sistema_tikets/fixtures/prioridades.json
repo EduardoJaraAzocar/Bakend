@@ -1,0 +1,38 @@
+[
+    {
+        "model": "sistema_tikets.prioridad",
+        "pk": 1,
+        "fields": {
+            "nivel": "Baja",
+            "tiempo_sla_horas": 72,
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.prioridad",
+        "pk": 2,
+        "fields": {
+            "nivel": "Media",
+            "tiempo_sla_horas": 48,
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.prioridad",
+        "pk": 3,
+        "fields": {
+            "nivel": "Alta",
+            "tiempo_sla_horas": 24,
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.prioridad",
+        "pk": 4,
+        "fields": {
+            "nivel": "Crítica",
+            "tiempo_sla_horas": 4,
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    }
+]

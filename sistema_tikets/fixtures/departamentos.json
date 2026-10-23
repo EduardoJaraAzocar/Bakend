@@ -1,0 +1,29 @@
+[
+    {
+        "model": "sistema_tikets.departamento",
+        "pk": 1,
+        "fields": {
+            "nombre_departamento": "Soporte TI",
+            "descripcion": "Problemas de hardware, software, redes y accesos.",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.departamento",
+        "pk": 2,
+        "fields": {
+            "nombre_departamento": "Facturación",
+            "descripcion": "Consultas sobre cobros, pagos y documentos tributarios.",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    },
+    {
+        "model": "sistema_tikets.departamento",
+        "pk": 3,
+        "fields": {
+            "nombre_departamento": "Recursos Humanos",
+            "descripcion": "Solicitudes de personal, permisos y contratos.",
+            "updated_at": "2026-10-23T12:00:00Z"
+        }
+    }
+]
